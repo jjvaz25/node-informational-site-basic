@@ -1,0 +1,1 @@
+A simple site with nothing fancy to practice creating a node server.
